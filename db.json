@@ -1,25 +1,29 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": 0,
       "name": "Paulo Victor Rebouças",
       "email": "pvictor.dev@gmail.com",
       "password": "12345678",
       "avatar": "https://avatars.githubusercontent.com/u/20193193?v=4"
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Amanda Cavalcante",
       "email": "amandacav@gmail.com",
       "password": "12345678",
       "avatar": "https://instagram.ffor25-1.fna.fbcdn.net/v/t51.2885-19/s150x150/18646076_462860154047173_5607754320951902208_a.jpg?tp=1&_nc_ht=instagram.ffor25-1.fna.fbcdn.net&_nc_ohc=JiNKAT9v4IcAX--L99Y&edm=AId3EpQBAAAA&ccb=7-4&oh=ff29e99c6783d6afbfc34320d5c44eaa&oe=60BCA565&_nc_sid=705020"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "João Alfredo",
       "email": "joaoalfredo@gmail.com",
       "password": "12345678",
       "avatar": "https://avatars.githubusercontent.com/u/55091913?v=4"
     }
+  ],
+
+  "sessions": [
+    
   ]
 }
