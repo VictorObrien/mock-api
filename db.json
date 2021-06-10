@@ -32,7 +32,7 @@
   ],
 
   "championships": [
-    "./assets/banner_1.png",
-    "./assets/banner_2.png"
+    "/media/victor/721CD0491CD009CD/SYS/mock-api/assets/banner_1.png",
+    "/media/victor/721CD0491CD009CD/SYS/mock-api/assets/banner_2.png"
   ]
 }
