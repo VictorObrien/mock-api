@@ -32,7 +32,7 @@
   ],
 
   "championships": [
-    "/media/victor/721CD0491CD009CD/SYS/mock-api/assets/banner_1.png",
-    "/media/victor/721CD0491CD009CD/SYS/mock-api/assets/banner_2.png"
+    "https://github.com/VictorObrien/mock-api/blob/master/assets/banner_1.png?raw=true",
+    "https://github.com/VictorObrien/mock-api/blob/master/assets/banner_2.png?raw=true"
   ]
 }
