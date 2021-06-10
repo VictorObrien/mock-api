@@ -29,5 +29,10 @@
       "email": "pvictor.dev@gmail.com",
       "password": "12345678"
     }
+  ],
+
+  "championships": [
+    "./assets/banner_1.png",
+    "./assets/banner_2.png"
   ]
 }
