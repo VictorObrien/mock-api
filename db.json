@@ -39,7 +39,7 @@
     {
       "id": 0,
       "name": "Futebol",
-      "events": [
+      "games": [
         {
           "id": 0,
           "championship": "Premier League",
@@ -81,7 +81,7 @@
     {
       "id": 1,
       "name": "Basquete",
-      "events": [
+      "games": [
         {
           "id": 0,
           "championship": "Premier League",
@@ -123,7 +123,7 @@
     {
       "id": 2,
       "name": "Volei",
-      "events": [
+      "games": [
         {
           "id": 0,
           "championship": "Premier League",
@@ -165,7 +165,7 @@
     {
       "id": 3,
       "name": "Tênis",
-      "events": [
+      "games": [
         {
           "id": 0,
           "championship": "Premier League",
@@ -207,7 +207,7 @@
     {
       "id": 4,
       "name": "NFL",
-      "events": [
+      "games": [
         {
           "id": 0,
           "championship": "Premier League",
@@ -249,7 +249,7 @@
     {
       "id": 5,
       "name": "Cricket",
-      "events": [
+      "games": [
         {
           "id": 0,
           "championship": "Premier League",
