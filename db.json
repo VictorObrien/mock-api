@@ -47,13 +47,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Chelsea",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Leicester C",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -65,13 +65,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Arsenal",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Roma",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -89,13 +89,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Chicago",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "New york C",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -107,13 +107,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Arsenal",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Roma",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -131,13 +131,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Chelsea",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Leicester C",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -149,13 +149,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Arsenal",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Roma",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -173,13 +173,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Chelsea",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Leicester C",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -191,13 +191,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Arsenal",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Roma",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -215,13 +215,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Chelsea",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Leicester C",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -233,13 +233,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Arsenal",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Roma",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -257,13 +257,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Chelsea",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Leicester C",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -275,13 +275,13 @@
           "draw-cotation": 2.1,
           "team1": {
             "name": "Arsenal",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Roma",
-            "logo": "",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
             "points": 1,
             "cotation": 1.3
           }
