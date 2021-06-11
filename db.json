@@ -34,5 +34,259 @@
   "championships": [
     "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/banner_1.png",
     "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/banner_2%20.png"
+  ],
+  "events": [
+    {
+      "id": 0,
+      "name": "Futebol",
+      "events": [
+        {
+          "id": 0,
+          "championship": "Premier League",
+          "time": "49:30",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Chelsea",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Leicester C",
+            "logo": "",
+            "points": 2,
+            "cotation": 1.3
+          }
+        },
+        {
+          "id": 1,
+          "championship": "UEFA Europa League",
+          "time": "12:15",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Arsenal",
+            "logo": "",
+            "points": 0,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Roma",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Basquete",
+      "events": [
+        {
+          "id": 0,
+          "championship": "Premier League",
+          "time": "49:30",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Chelsea",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Leicester C",
+            "logo": "",
+            "points": 2,
+            "cotation": 1.3
+          }
+        },
+        {
+          "id": 1,
+          "championship": "UEFA Europa League",
+          "time": "12:15",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Arsenal",
+            "logo": "",
+            "points": 0,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Roma",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Volei",
+      "events": [
+        {
+          "id": 0,
+          "championship": "Premier League",
+          "time": "49:30",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Chelsea",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Leicester C",
+            "logo": "",
+            "points": 2,
+            "cotation": 1.3
+          }
+        },
+        {
+          "id": 1,
+          "championship": "UEFA Europa League",
+          "time": "12:15",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Arsenal",
+            "logo": "",
+            "points": 0,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Roma",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tênis",
+      "events": [
+        {
+          "id": 0,
+          "championship": "Premier League",
+          "time": "49:30",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Chelsea",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Leicester C",
+            "logo": "",
+            "points": 2,
+            "cotation": 1.3
+          }
+        },
+        {
+          "id": 1,
+          "championship": "UEFA Europa League",
+          "time": "12:15",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Arsenal",
+            "logo": "",
+            "points": 0,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Roma",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "NFL",
+      "events": [
+        {
+          "id": 0,
+          "championship": "Premier League",
+          "time": "49:30",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Chelsea",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Leicester C",
+            "logo": "",
+            "points": 2,
+            "cotation": 1.3
+          }
+        },
+        {
+          "id": 1,
+          "championship": "UEFA Europa League",
+          "time": "12:15",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Arsenal",
+            "logo": "",
+            "points": 0,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Roma",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cricket",
+      "events": [
+        {
+          "id": 0,
+          "championship": "Premier League",
+          "time": "49:30",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Chelsea",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Leicester C",
+            "logo": "",
+            "points": 2,
+            "cotation": 1.3
+          }
+        },
+        {
+          "id": 1,
+          "championship": "UEFA Europa League",
+          "time": "12:15",
+          "draw-cotation": 2.1,
+          "Team1": {
+            "name": "Arsenal",
+            "logo": "",
+            "points": 0,
+            "cotation": 1.8
+          },
+          "Team2": {
+            "name": "Roma",
+            "logo": "",
+            "points": 1,
+            "cotation": 1.3
+          }
+        }
+      ]
+    }
   ]
 }
