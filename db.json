@@ -45,13 +45,13 @@
           "championship": "Premier League",
           "time": "49:30",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Chelsea",
             "logo": "",
             "points": 1,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Leicester C",
             "logo": "",
             "points": 2,
@@ -63,13 +63,13 @@
           "championship": "UEFA Europa League",
           "time": "12:15",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Arsenal",
             "logo": "",
             "points": 0,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Roma",
             "logo": "",
             "points": 1,
@@ -87,13 +87,13 @@
           "championship": "Premier League",
           "time": "49:30",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Chelsea",
             "logo": "",
             "points": 1,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Leicester C",
             "logo": "",
             "points": 2,
@@ -105,13 +105,13 @@
           "championship": "UEFA Europa League",
           "time": "12:15",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Arsenal",
             "logo": "",
             "points": 0,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Roma",
             "logo": "",
             "points": 1,
@@ -129,13 +129,13 @@
           "championship": "Premier League",
           "time": "49:30",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Chelsea",
             "logo": "",
             "points": 1,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Leicester C",
             "logo": "",
             "points": 2,
@@ -147,13 +147,13 @@
           "championship": "UEFA Europa League",
           "time": "12:15",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Arsenal",
             "logo": "",
             "points": 0,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Roma",
             "logo": "",
             "points": 1,
@@ -171,13 +171,13 @@
           "championship": "Premier League",
           "time": "49:30",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Chelsea",
             "logo": "",
             "points": 1,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Leicester C",
             "logo": "",
             "points": 2,
@@ -189,13 +189,13 @@
           "championship": "UEFA Europa League",
           "time": "12:15",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Arsenal",
             "logo": "",
             "points": 0,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Roma",
             "logo": "",
             "points": 1,
@@ -213,13 +213,13 @@
           "championship": "Premier League",
           "time": "49:30",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Chelsea",
             "logo": "",
             "points": 1,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Leicester C",
             "logo": "",
             "points": 2,
@@ -231,13 +231,13 @@
           "championship": "UEFA Europa League",
           "time": "12:15",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Arsenal",
             "logo": "",
             "points": 0,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Roma",
             "logo": "",
             "points": 1,
@@ -255,13 +255,13 @@
           "championship": "Premier League",
           "time": "49:30",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Chelsea",
             "logo": "",
             "points": 1,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Leicester C",
             "logo": "",
             "points": 2,
@@ -273,13 +273,13 @@
           "championship": "UEFA Europa League",
           "time": "12:15",
           "draw-cotation": 2.1,
-          "Team1": {
+          "team1": {
             "name": "Arsenal",
             "logo": "",
             "points": 0,
             "cotation": 1.8
           },
-          "Team2": {
+          "team2": {
             "name": "Roma",
             "logo": "",
             "points": 1,
