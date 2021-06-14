@@ -89,13 +89,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Bulls",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nba/Bulls.png",
             "points": 52,
             "cotation": 1.8
           },
           "team2": {
             "name": "Warriors",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nba/warriors.png",
             "points": 75,
             "cotation": 1.3
           }
@@ -107,13 +107,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Cleveland",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nba/Cleveland.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Lakers",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nba/Lakers.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -131,13 +131,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Apan",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/volei/apan.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Caramuru",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/volei/caramuru.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -149,13 +149,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Sesi",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/volei/sesi.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Itapetininga",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/volei/itapetininga.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -173,13 +173,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Colorado",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/baseball/colorado.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Dodgers",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/baseball/dodgers.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -191,13 +191,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Mets",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/baseball/mets.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Yankees",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/baseball/yankees.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -215,13 +215,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Broncos",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nfl/broncos.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Minnesota",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nfl/minnesota.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -233,13 +233,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Patriots",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nfl/pariots.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Panthers",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nfl/panthers.png",
             "points": 1,
             "cotation": 1.3
           }
@@ -257,13 +257,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Delhi",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Chelsea.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/cricket/delhi.png",
             "points": 1,
             "cotation": 1.8
           },
           "team2": {
             "name": "Mumbai",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Leicester.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/cricket/mumbai.png",
             "points": 2,
             "cotation": 1.3
           }
@@ -275,13 +275,13 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Punjab",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Arsenal.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/cricket/punjab.png",
             "points": 0,
             "cotation": 1.8
           },
           "team2": {
             "name": "Riders",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/Roma.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/cricket/riders.png",
             "points": 1,
             "cotation": 1.3
           }
