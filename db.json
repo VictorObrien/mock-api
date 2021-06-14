@@ -233,7 +233,7 @@
           "drawCotation": 2.1,
           "team1": {
             "name": "Patriots",
-            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nfl/pariots.png",
+            "logo": "https://raw.githubusercontent.com/VictorObrien/mock-api/master/assets/teams/nfl/patriots.png",
             "points": 0,
             "cotation": 1.8
           },
