@@ -127,5 +127,52 @@
         }
       ]
     }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "user": {
+        "name": "Anna Auer",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+      },
+      "occupation": "Nursing service management (PDL)",
+      "availability": {
+        "days": ["Monday", "Wednesday", "Thursday"],
+        "time": {
+          "initial": "11:00",
+          "end": "13:00"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Berta Bertold",
+        "avatar": "https://images.unsplash.com/photo-1628890923662-2cb23c2e0cfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      "occupation": "Home management (HL)",
+      "availability": {
+        "days": ["Monday", "Tuesday", "Friday"],
+        "time": {
+          "initial": "08:00",
+          "end": "11:00"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "Christian Castanic",
+        "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+      },
+      "occupation": "Residential area management (WBL)",
+      "availability": {
+        "days": ["Wednesday", "Thursday"],
+        "time": {
+          "initial": "11:00",
+          "end": "13:00"
+        }
+      }
+    }
   ]
 }
