@@ -241,5 +241,71 @@
       ],
       "vegetarian": ["Food 1", "Food 2", "Food 3"]
     }
+  ],
+  "photo-gallery": [
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/3000/5000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    },
+    {
+      "description": "Lorem Ipsum",
+      "photo": "https://picsum.photos/1000"
+    }
   ]
 }
