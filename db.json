@@ -211,5 +211,35 @@
       "date": "2022-02-08T16:10:27-03:00",
       "text": "Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum"
     }
+  ],
+  "menu-plan": [
+    {
+      "date": "2021-11-30",
+      "normal": ["Food 1", "Food 2", "Food 3"],
+      "vegetarian": ["Food 1", "Food 2", "Food 3"]
+    },
+    {
+      "date": "2021-12-01",
+      "normal": ["Food 1", "Food 2", "Food 3"],
+      "vegetarian": ["Food 1", "Food 2", "Food 3"]
+    },
+    {
+      "date": "2021-12-02",
+      "normal": [
+        "Food 1",
+        "Food 2",
+        "Food 3",
+        "Food 1",
+        "Food 2",
+        "Food 3",
+        "Food 1",
+        "Food 2",
+        "Food 3",
+        "Food 1",
+        "Food 2",
+        "Food 3"
+      ],
+      "vegetarian": ["Food 1", "Food 2", "Food 3"]
+    }
   ]
 }
