@@ -4,13 +4,15 @@
       "id": 0,
       "name": "root",
       "email": "root@gmail.com",
-      "password": "12345"
+      "password": "12345",
+      "type": "admin"
     },
     {
       "id": 1,
       "name": "Paulo Victor",
       "email": "pvictor.dev@gmail.com",
-      "password": "123456"
+      "password": "123456",
+      "type": "resident"
     }
   ],
   "sessions": [
