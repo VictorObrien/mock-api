@@ -68,21 +68,25 @@
       "date": "2022-02-05T16:10:27-03:00",
       "activities": [
         {
+          "id": "0",
           "interval": "10h - 13h",
           "description": "activity description",
           "relativesAllow": true
         },
         {
+          "id": "1",
           "interval": "13h - 15h",
           "description": "activity description",
           "relativesAllow": false
         },
         {
+          "id": "2",
           "interval": "15h - 18h",
           "description": "activity description",
           "relativesAllow": true
         },
         {
+          "id": "3",
           "interval": "19h - 22h",
           "description": "activity description",
           "relativesAllow": false
@@ -93,6 +97,7 @@
       "date": "2022-02-06T16:10:27-03:00",
       "activities": [
         {
+          "id": "4",
           "interval": "10h - 13h",
           "description": "activity description",
           "relativesAllow": true
@@ -103,6 +108,7 @@
       "date": "2022-02-07T16:10:27-03:00",
       "activities": [
         {
+          "id": "5",
           "interval": "10h - 13h",
           "description": "activity description",
           "relativesAllow": false
@@ -113,6 +119,7 @@
       "date": "2022-02-08T16:10:27-03:00",
       "activities": [
         {
+          "id": "6",
           "interval": "10h - 13h",
           "description": "activity description",
           "relativesAllow": false
@@ -123,6 +130,7 @@
       "date": "2022-02-08T16:10:27-03:00",
       "activities": [
         {
+          "id": "7",
           "interval": "10h - 13h",
           "description": "activity description",
           "relativesAllow": true
