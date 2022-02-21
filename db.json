@@ -65,73 +65,81 @@
   ],
   "activity-plan": [
     {
-      "date": "2022-02-05T16:10:27-03:00",
+      "date": "2022-02-15t17:00:00.000z",
       "activities": [
         {
           "id": "0",
-          "interval": "10h - 13h",
+          "start": "2022-02-15t10:00:00.000z",
+          "end": "2022-02-15t12:00:00.000z",
           "description": "activity description",
           "relativesAllow": true
         },
         {
           "id": "1",
-          "interval": "13h - 15h",
+          "start": "2022-02-15t13:00:00.000z",
+          "end": "2022-02-15t15:00:00.000z",
           "description": "activity description",
           "relativesAllow": false
         },
         {
           "id": "2",
-          "interval": "15h - 18h",
+          "start": "2022-02-15t17:00:00.000z",
+          "end": "2022-02-15t19:00:00.000z",
           "description": "activity description",
           "relativesAllow": true
         },
         {
           "id": "3",
-          "interval": "19h - 22h",
+          "start": "2022-02-15t20:00:00.000z",
+          "end": "2022-02-15t21:00:00.000z",
           "description": "activity description",
           "relativesAllow": false
         }
       ]
     },
     {
-      "date": "2022-02-06T16:10:27-03:00",
+      "date": "2022-02-16t17:00:00.000z",
       "activities": [
         {
           "id": "4",
-          "interval": "10h - 13h",
+          "start": "2022-02-16t17:00:00.000z",
+          "end": "2022-02-16t19:00:00.000z",
           "description": "activity description",
           "relativesAllow": true
         }
       ]
     },
     {
-      "date": "2022-02-07T16:10:27-03:00",
+      "date": "2022-02-17t17:00:00.000z",
       "activities": [
         {
           "id": "5",
-          "interval": "10h - 13h",
+          "start": "2022-02-17t17:00:00.000z",
+          "end": "2022-02-17t19:00:00.000z",
           "description": "activity description",
           "relativesAllow": false
         }
       ]
     },
     {
-      "date": "2022-02-08T16:10:27-03:00",
+      "date": "2022-02-18t17:00:00.000z",
       "activities": [
         {
           "id": "6",
-          "interval": "10h - 13h",
+          "start": "2022-02-18t17:00:00.000z",
+          "end": "2022-02-18t19:00:00.000z",
           "description": "activity description",
           "relativesAllow": false
         }
       ]
     },
     {
-      "date": "2022-02-08T16:10:27-03:00",
+      "date": "2022-02-19t17:00:00.000z",
       "activities": [
         {
           "id": "7",
-          "interval": "10h - 13h",
+          "start": "2022-02-19t17:00:00.000z",
+          "end": "2022-02-19t19:00:00.000z",
           "description": "activity description",
           "relativesAllow": true
         }
